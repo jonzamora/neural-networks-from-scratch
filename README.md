@@ -1,6 +1,6 @@
 # Neural Networks from Scratch
 
-Neural Nets from Scratch implemented in Python.
+Neural Networks from Scratch implemented in Python.
 
 ## Purpose
 
