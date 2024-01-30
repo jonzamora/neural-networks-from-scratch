@@ -1,6 +1,5 @@
 """
-A Single Layer of 3 Neurons
-Version 3: NumPy version (see vanilla_python for non-NumPy layers)
+A Single Layer of 3 Neurons in NumPy
 Layer's Output: A NumPy array of 3 values
 """
 import numpy as np
