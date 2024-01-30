@@ -1,5 +1,6 @@
 """
 A Single Layer of 3 Neurons
+Version 1: Non-dynamic (i.e. no loops)
 Layer's Output: A list of 3 values
 """
 
