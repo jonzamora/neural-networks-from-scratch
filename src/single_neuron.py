@@ -1,5 +1,6 @@
 """
 A Single Neuron
+Neuron's Output: 1 value
 """
 
 inputs = [1.0, 2.0, 3.0, 2.5]
