@@ -26,6 +26,7 @@ Next, you'll want to create an environment with Mamba for running your Python co
 mamba create -n nnfs python=3.10
 mamba activate nnfs
 mamba install numpy matplotlib
+pip install nnfs
 ```
 
 ## Note
