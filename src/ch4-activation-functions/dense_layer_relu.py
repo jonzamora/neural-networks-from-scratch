@@ -26,10 +26,10 @@ class DenseLayer:
 
 # ReLU activation function
 class ReLU:
-    # Forward pass
     def __init__(self):
         self.output = None
 
+    # Forward pass
     def forward(self, inputs):
         # Calculate output values from input
         self.output = np.maximum(0, inputs)
