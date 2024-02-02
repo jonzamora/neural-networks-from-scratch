@@ -1,5 +1,5 @@
 """
-This is a Dense Layer implementation with NumPy
+This is a Dense Layer and ReLU activation function implementation with NumPy
 Input to Layer: (n_samples=300, n_inputs=2)
 Size after Forward Pass: (n_samples=300, n_inputs=2) * (n_inputs=2, n_neurons=3) = (300, 3)
 """
