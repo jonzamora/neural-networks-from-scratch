@@ -1,6 +1,6 @@
 """
 Softmax Activation Function
-Version 1: NumPy implementation
+Version 2: NumPy implementation
 """
 import numpy as np
 
