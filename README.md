@@ -2,7 +2,7 @@
 
 Neural Networks from Scratch implemented in Python.
 
-## Purpose
+## Introduction
 
 > What I cannot create, I do not understand
 > 
