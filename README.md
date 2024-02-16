@@ -1,6 +1,6 @@
 # Neural Networks from Scratch
 
-Neural Networks from Scratch implemented in Python.
+Neural Networks from Scratch implemented in Python with NumPy.
 
 ## Introduction
 
