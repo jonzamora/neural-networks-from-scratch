@@ -29,6 +29,12 @@ mamba install numpy matplotlib
 pip install nnfs
 ```
 
-## Note
+You can find all code in the `src` directory.
 
-This is an in-progress repository! I will be updating this project in the coming weeks until it is finished. Stay tuned!
+## Notes
+
+- This is an in-progress repository! I will be updating this project in the coming weeks until it is finished. Stay tuned!
+- I plan to have the following Neural Networks from Scratch implemented:
+  - [ ] Multilayer Perceptron
+  - [ ] Convolutional Neural Network
+  - [ ] Recurrent Neural Network
