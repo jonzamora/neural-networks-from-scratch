@@ -33,7 +33,7 @@ You can find all code in the `src` directory.
 
 ## Notes
 
-- This is an in-progress repository! I will be updating this project in the coming weeks until it is finished. Stay tuned!
+- This is an in-progress repository! I plan to finish (most) of this by the end of February 2024. Stay tuned!
 - I plan to have the following Neural Networks from Scratch implemented:
   - [ ] Multilayer Perceptron
   - [ ] Convolutional Neural Network
