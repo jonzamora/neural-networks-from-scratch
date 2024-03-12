@@ -33,7 +33,5 @@ You can find all code in the `src` directory.
 
 ## Notes
 
-- This is an in-progress repository! I plan to finish (most) of this by the end of March 2024. Stay tuned!
-  - [ ] Multilayer Perceptron (end of Feb 2024)
-  - [ ] Convolutional Neural Network (end of March 2024)
-  - [ ] Recurrent Neural Network (end of March 2024)
+- This is an in-progress repository! I plan to finish this by the end of March 2024. Stay tuned!
+- I *may* also implement Convolutional Neural Networks and Recurrent Neural Networks from Scratch in the future
